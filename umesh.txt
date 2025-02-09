@@ -5,3 +5,5 @@ Testing git Commands.......
 
 
 Cloning GitHub Repository
+
+adding files through git and pulling in remote file
